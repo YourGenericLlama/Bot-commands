@@ -1,0 +1,9 @@
+ping -pong!
+info -brings you here
+version -what version are we even on?
+clog -the latest news
+drink -do you want some milk?
+invite - creates a pog server invite
+rules - brings you to #rules
+pong - PING!
+oof - ya messed up
